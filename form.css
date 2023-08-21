@@ -1,0 +1,70 @@
+
+input[type=text]{
+    width: 100%;
+    border: 3px solid green;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    font-size: larger;
+}
+input[type=password]{
+    width: 100%;
+    border: 3px solid green;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    font-size: larger;
+}
+input[type=number]{
+    width: 100%;
+    border: 3px solid green;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    font-size: larger;
+}
+input[type=submit]{
+    border: 3px solid black;
+    background-color: cadetblue;
+    font-size: larger;
+    
+}
+input[type=date]{
+    width: 100%;
+    border: 3px solid green;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    font-size: larger;
+   
+}
+input[type=email]{
+    width: 100%;
+    border: 3px solid green;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    font-size: larger;
+}
+input[type=month]{
+    width: 100%;
+    border: 3px solid green;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: lightblue;
+    font-size: larger;
+}
+fieldset{
+    border: 3px solid black;
+    font-size: larger;
+}
+input[type=file]{
+    border: 1px solid green;
+    background-color: lightblue;
+    font-size: larger;
+}
+input[type=reset]{
+    border: 3px solid black;
+    background-color:  cadetblue;
+    font-size: larger;
+}
